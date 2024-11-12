@@ -1,2 +1,12 @@
-# desafio-github-markdown
-Repository dedicated to the MD challenge of the GitHub course from Dio.me
+# Objetivos Pricipais:
+- [x] Criar uma conta no Github
+
+- [x] Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente)
+
+- [] Realize alterações, Commits, abra issues e pull requests
+
+- [] Edite o arquivo "README.md" em seu repositório
+
+- [] Formatação com Markdown
+
+-------------
